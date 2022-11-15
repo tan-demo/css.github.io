@@ -1,0 +1,12 @@
+
+/* used to set a different logo */
+.nav-bar__logo img {
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/oolio-avatar-primary.png);
+}
+
+.nav-bar__logo img {
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/oolio-avatar-primary.png);
+}
+
+.login .argo__logo {
+    background-image: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/logo.png);
