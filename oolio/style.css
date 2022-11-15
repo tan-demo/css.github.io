@@ -1,11 +1,11 @@
 
 /* used to set a different logo */
 .nav-bar__logo img {
-    content: url(https://tan-demo.github.io/css.github.io/oolio/oolio-avatar.png);
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/oolio/oolio-avatar.png);
 }
 
 .nav-bar__logo img {
-    content: url(https://tan-demo.github.io/css.github.io/oolio/oolio-avatar.png);
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/oolio/oolio-avatar.png);
 }
 
 .login .argo__logo {
