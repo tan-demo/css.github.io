@@ -4,5 +4,10 @@
     content: url(https://tan-demo.github.io/css.github.io/oolio-avatar-primary.png);
 }
 
+.nav-bar__logo img {
+    content: url(https://tan-demo.github.io/css.github.io/oolio-avatar-primary.png);
+}
+
 .login .argo__logo {
     background-image: url(https://tan-demo.github.io/css.github.io/logo.png);
+}
