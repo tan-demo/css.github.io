@@ -8,3 +8,7 @@
     background-image: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/brand.png);
 }
 
+
+.login login__logo logo-image {
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/brand.png);
+}
