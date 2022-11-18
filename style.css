@@ -4,9 +4,6 @@
     content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/logo_p.png);
 }
 
-.nav-bar__logo img {
-    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/logo_p.png);
-}
-
 .login .argo__logo {
-    background-image: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/PE.png);
+    background-image: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/brand.png);
+}
