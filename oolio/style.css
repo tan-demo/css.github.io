@@ -1,10 +1,6 @@
 
 /* used to set a different logo */
-.nav-bar__logo img {
-    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/oolio/oolio-avatar.png);
-}
-
-.nav-bar__logo img {
+.sidebar__logo img {
     content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/oolio/oolio-avatar.png);
 }
 
