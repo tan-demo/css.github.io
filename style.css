@@ -9,6 +9,6 @@
 }
 
 
-.login login__logo logo-image {
+.login login__logo logo-image img {
     content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/brand.png);
 }
