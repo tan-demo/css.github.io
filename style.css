@@ -1,11 +1,11 @@
 
 /* used to set a different logo */
 .nav-bar__logo img {
-    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/Prophet_Exchange_Logo.png);
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/logo_p.png);
 }
 
 .nav-bar__logo img {
-    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/Prophet_Exchange_Logo.png);
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/logo_p.png);
 }
 
 .login .argo__logo {
