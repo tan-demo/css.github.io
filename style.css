@@ -12,3 +12,12 @@
 .login login__logo logo-image img {
     content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/brand.png);
 }
+
+.login__logo img.logo-image {
+  display: none
+}
+.login__logo {
+    background-size: 100px 50px;
+    background-image: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/prophetabc.png);
+    height: 50px;
+}
