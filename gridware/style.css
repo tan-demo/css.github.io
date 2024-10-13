@@ -1,0 +1,9 @@
+
+/* used to set a different logo */
+.sidebar__logo img {
+    content: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/gridware/logo.png);
+}
+
+.login .argo__logo {
+    background-image: url(https://raw.githubusercontent.com/tan-demo/css.github.io/main/gridware/brand.png);
+}
